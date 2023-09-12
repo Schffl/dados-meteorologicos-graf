@@ -25,11 +25,3 @@ Este programa permite analisar dados meteorológicos diários do município bras
    ```
 6. Siga as instruções exibidas no terminal para utilizar as funcionalidades do programa.
 
-## Autor
-
-Vinicios Schaffel
-
-## Licença
-
-Este projeto está licenciado sob a licença MIT.
-
